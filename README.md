@@ -11,6 +11,9 @@
 
 ├── PythonBasics
 ├── PythonAdvanced
+    ├──Activities
+        ├──Chapter1
+        ├──Chapter2
 └── .gitignore
 └── README.md
 
