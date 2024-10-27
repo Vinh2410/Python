@@ -1,6 +1,7 @@
-# Python Training
+# Advanced Python Training
 
 ## Information
+
 -   Editor: Visual Studio Code
 -   Extension for formatting code : Python Black formater
 
